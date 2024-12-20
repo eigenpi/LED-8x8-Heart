@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LEDBeatingHeart2</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="button_select_heart_beat">HEART BEATING</string>
+    <string name="button_select_heart_fade">HEART FADING</string>
+
+</resources>
